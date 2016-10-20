@@ -1,6 +1,0 @@
-framework module YouboraPluginAVPlayer {
-  umbrella header "YouboraPluginAVPlayer.h"
-
-  export *
-  module * { export * }
-}
