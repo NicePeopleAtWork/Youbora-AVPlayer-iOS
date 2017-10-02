@@ -14,5 +14,5 @@
 #endif
 
 @interface YBPluginAVPlayer : YBPluginGeneric
-
+- (void) setAutoJoinTimeDetection: (BOOL) isAuto;
 @end
